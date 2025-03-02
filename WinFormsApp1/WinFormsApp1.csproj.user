@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdministrativeStaffDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignWorkLoadHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FacultyMemberDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FacultyRequestsHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HeadDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageFacultyAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageFacultyHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageInventoryAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationsFm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProcessRequestsAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportsHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResourceAllocationHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settingsHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SubmitRequestFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackRequestFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
